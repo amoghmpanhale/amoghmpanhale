@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://amoghmpanhale.github.io/amogh-panhale/" target="blank"><img align="center" src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" height="30" /></a>
   <a href="https://linkedin.com/in/amoghpanhale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:panhale@ualberta.ca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="/cdn-cgi/l/email-protection#7000111e18111c153005111c12150204115e1311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
   <a href="https://github.com/amoghmpanhale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
@@ -84,19 +84,27 @@ I'm a final-year Computing Science student at the University of Alberta who love
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amoghmpanhale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghmpanhale&layout=compact&theme=tokyonight&hide_border=true" width="345" />
-</p>
+<!-- Option A: Self-hosted (RECOMMENDED - see instructions below) -->
+<!-- Deploy your own: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+<!-- Then replace YOUR_VERCEL_INSTANCE below with your deployed URL -->
+
+<!-- Option B: Public instance with long cache (may still occasionally fail) -->
+<!-- <p align="center">
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=amoghmpanhale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="400" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghmpanhale&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="345" alt="Top Languages" />
+  </picture>
+</p> -->
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=amoghmpanhale&theme=tokyonight&hide_border=true" width="400" />
+    <img src="https://streak-stats.demolab.com/?user=amoghmpanhale&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amoghmpanhale&color=6366f1&style=flat-square&label=Profile+Views" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=amoghmpanhale&color=6366f1&style
