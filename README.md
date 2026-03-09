@@ -18,9 +18,7 @@
 I'm a final-year Computing Science student at the University of Alberta who loves building things at the intersection of **machine learning** and **real-world applications** — particularly in healthcare and medical imaging.
 
 - 🔬 **Undergraduate Research Assistant** at the [VASP Lab](https://sites.google.com/ualberta.ca/vasp-lab) — developing ML-driven experimental software for psychology research under Dr. Dana Hayward
-- 🏥 **Former Software Developer** at [Wound3](https://wound3.com) — built computer vision models for clinical wound assessment, including segmentation pipelines and 3D reconstruction
-- 🎓 Graduating **December 2025**, looking for opportunities in medical AI, computer vision, and applied ML
-- 🌍 Originally from Dubai, currently based in Edmonton, AB
+- 🏥 **Prev Software Developer** at [Wound3](https://wound3.com) — built computer vision models for clinical wound assessment, including segmentation pipelines and 3D reconstruction
 
 ---
 
